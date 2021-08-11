@@ -1,0 +1,10 @@
+draw_self()
+draw_set_halign(fa_left)
+
+//gpu_set_blendmode(bm_subtract)
+//draw_text_color(x+10,y+12,"Power: "+string(obj_Control.res_power),c_black,c_black,c_black,c_black,1)
+//draw_text_color(x+10,y+42,"Metal: "+string(obj_Control.res_metal),c_black,c_black,c_black,c_black,1)
+gpu_set_blendmode(bm_add)
+draw_text(x+10,y+10,"Power: "+string(obj_Control.res_power)+"/"+string(obj_Control.upg_powerMax))
+draw_text(x+10,y+40,"Metal: "+string(obj_Control.res_metal)+"/"+string(obj_Control.upg_metalMax))
+gpu_set_blendmode(bm_normal)
