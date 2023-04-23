@@ -25,14 +25,14 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"626b6553-eadb-4f77-9e4d-15f65e769709","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"626b6553-eadb-4f77-9e4d-15f65e769709","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"626b6553-eadb-4f77-9e4d-15f65e769709","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"626b6553-eadb-4f77-9e4d-15f65e769709","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"01e22343-64c0-4f0a-8caf-de21e4ef0d13","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"626b6553-eadb-4f77-9e4d-15f65e769709","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"626b6553-eadb-4f77-9e4d-15f65e769709","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_batteryCabinet","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"626b6553-eadb-4f77-9e4d-15f65e769709","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"01e22343-64c0-4f0a-8caf-de21e4ef0d13","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_batteryCabinet","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"a96a11ab-1b46-4fc7-aeba-65e92271f9c5","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"a96a11ab-1b46-4fc7-aeba-65e92271f9c5","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"01e22343-64c0-4f0a-8caf-de21e4ef0d13","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
@@ -40,9 +40,9 @@
         {"FrameId":{"name":"a96a11ab-1b46-4fc7-aeba-65e92271f9c5","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_batteryCabinet","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"a96a11ab-1b46-4fc7-aeba-65e92271f9c5","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"01e22343-64c0-4f0a-8caf-de21e4ef0d13","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"LayerId":{"name":"b4aa4b04-8368-44a0-80bc-1c401308f077","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_batteryCabinet","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -62,7 +62,7 @@
             {"id":"3120a404-22df-4880-b18c-2be7fb6b874d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b11f014e-eb17-4e4c-bb05-28ac02157c92","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7b5f8170-39fe-470b-a418-59fc1b2c5726","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a96a11ab-1b46-4fc7-aeba-65e92271f9c5","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"affd7f09-57b1-4542-bdbd-cf8b5f456d9c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f9f84e0e-e2e7-4715-9481-aafa9e118214","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_batteryCabinet","path":"sprites/spr_batteryCabinet/spr_batteryCabinet.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_batteryCabinet",
     "tags": [],
     "resourceType": "GMSequence",
@@ -89,6 +89,7 @@
     {"visible":true,"isLocked":false,"blendMode":1,"opacity":28.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"350c8246-cc8c-44ec-a6a4-80b0bd66a805","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b4aa4b04-8368-44a0-80bc-1c401308f077","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Scene sprites",
     "path": "folders/Sprites/Scene sprites.yy",

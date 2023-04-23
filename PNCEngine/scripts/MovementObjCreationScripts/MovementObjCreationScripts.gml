@@ -46,7 +46,7 @@ function SnapDown() {
 
 }
 
-///@func Left(snap x, snap y)
+///@func SnapLeft(snap x, snap y)
 ///@desc Creation: snap to a location 
 ///@arg {real} x cord to snap camera to
 ///@arg {real} y cord to snap camera to
